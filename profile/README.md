@@ -4,4 +4,4 @@ Quer nos conhecer melhor? <a href="https://terceiro-DS.github.io">Clique aqui!</
 
 Ou, escaneie o QR Code!
 
-<img src="../assets/qr-code.png">
+<img src="../assets/qr-code-small.png" width="350" height="350">
